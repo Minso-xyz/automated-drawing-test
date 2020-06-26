@@ -1,0 +1,12 @@
+C:\Users\minso\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\minso\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\minso\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\minso\source\repos\Test\Test\bin\Debug\Test.xml
+C:\Users\minso\source\repos\Test\Test\obj\Debug\Test.vbprojAssemblyReference.cache
+C:\Users\minso\source\repos\Test\Test\obj\Debug\Test.Param.resources
+C:\Users\minso\source\repos\Test\Test\obj\Debug\Test.Resources.resources
+C:\Users\minso\source\repos\Test\Test\obj\Debug\Test.vbproj.GenerateResource.cache
+C:\Users\minso\source\repos\Test\Test\obj\Debug\Test.vbproj.CoreCompileInputs.cache
+C:\Users\minso\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\minso\source\repos\Test\Test\obj\Debug\Test.xml
+C:\Users\minso\source\repos\Test\Test\obj\Debug\Test.pdb
