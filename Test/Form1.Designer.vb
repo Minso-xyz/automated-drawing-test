@@ -56,9 +56,9 @@ Partial Class Param
 		Me.lblParam.AutoSize = True
 		Me.lblParam.Location = New System.Drawing.Point(25, 14)
 		Me.lblParam.Name = "lblParam"
-		Me.lblParam.Size = New System.Drawing.Size(55, 13)
+		Me.lblParam.Size = New System.Drawing.Size(49, 13)
 		Me.lblParam.TabIndex = 2
-		Me.lblParam.Text = "Parameter"
+		Me.lblParam.Text = "Diameter"
 		'
 		'Param
 		'
@@ -69,7 +69,7 @@ Partial Class Param
 		Me.Controls.Add(Me.btnCancel)
 		Me.Controls.Add(Me.trkParam)
 		Me.Name = "Param"
-		Me.Text = "Parameter"
+		Me.Text = "Parameter controller"
 		CType(Me.trkParam, System.ComponentModel.ISupportInitialize).EndInit()
 		Me.ResumeLayout(False)
 		Me.PerformLayout()
